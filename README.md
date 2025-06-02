@@ -1,6 +1,6 @@
 # Spotify Genre Classification - FML Capstone
 
-This project involves building a multi-class classification model using a dataset of ~50,000 Spotify tracks, each labeled with a genre and described by audio features like tempo, energy, and danceability. The goal is to predict music genres accurately using various machine learning models after preprocessing and dimensionality reduction.
+This project involves building a multi-class classification model using a dataset of ~50,000 Spotify tracks, each labeled with a genre and described by audio features like tempo, energy, and danceability. The goal is to predict music genres accurately using various machine learning models after preprocessing and dimensionality reduction. Read [FML_Capstone.pdf](./FML_Capstone.pdf) for more details.
 
 ## Key Steps
 
